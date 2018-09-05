@@ -1,0 +1,7 @@
+<PISI>
+    <Source>
+        <Name>sublimetext3</Name>
+        <Summary xml:lang="tr">Sublime Text, içinde birçok programlama dili arayüzü barındıran, çapraz platform bir kaynak kod düzenleme ve metin editörüdür. Arayüzü Vim'den ilham alınarak tasarlanmıştır.</Summary>
+        <Description xml:lang="tr">Sublime Text, içinde birçok programlama dili arayüzü barındıran, çapraz platform bir kaynak kod düzenleme ve metin editörüdür. Arayüzü Vim'den ilham alınarak tasarlanmıştır.</Description>
+    </Source>
+</PISI>

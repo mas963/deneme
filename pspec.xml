@@ -1,0 +1,40 @@
+<PISI>
+    <Source>
+        <Name>sublimetext3</Name>
+        <Homepage>https://www.sublimetext.com/</Homepage>
+        <Packager>
+            <Name>Yaşar CAN</Name>
+            <Email>masendgj7@gmail.com</Email>
+        </Packager>
+        <License>MIT</License>
+        <PartOf>editor</PartOf>
+        <IsA>app:gui</IsA>
+        <Summary>Sublime Text, içinde birçok programlama dili arayüzü barındıran, çapraz platform bir kaynak kod düzenleme ve metin editörüdür. Arayüzü Vim'den ilham alınarak tasarlanmıştır.
+</Summary>
+        <Description>Sublime Text, içinde birçok programlama dili arayüzü barındıran, çapraz platform bir kaynak kod düzenleme ve metin editörüdür. Arayüzü Vim'den ilham alınarak tasarlanmıştır.</Description>
+        <Archive sha1sum="da573c2870c079b7d4cdb2c6b0c94d3911c0a747" type="tarbz2">https://download.sublimetext.com/sublime_text_3_build_3176_x64.tar.bz2</Archive>
+    </Source>
+    <Package>
+        <Name>sublimetext3</Name>
+        <Files>
+			<Path fileType="data">/usr/bin/</Path>
+             <Path fileType="data">/usr/share/</Path>
+        </Files>
+		<AdditionalFiles>
+            <AdditionalFile target="/usr/share/applications/sublime_text.desktop" group="root" owner="root" permission="0744">sublime_text.desktop</AdditionalFile>
+            <AdditionalFile target="/usr/share/pixmaps/sublime-text.png" group="root" owner="root" permission="0744">sublime-text.png</AdditionalFile>
+        </AdditionalFiles>
+        <Summary>Sublime Text, içinde birçok programlama dili arayüzü barındıran, çapraz platform bir kaynak kod düzenleme ve metin editörüdür. Arayüzü Vim'den ilham alınarak tasarlanmıştır.
+</Summary>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2018-09-05</Date>
+            <Version>3.1.1</Version>
+            <Comment>Sublime Text, içinde birçok programlama dili arayüzü barındıran, çapraz platform bir kaynak kod düzenleme ve metin editörüdür. Arayüzü Vim'den ilham alınarak tasarlanmıştır.
+</Comment>
+            <Name>Yaşar CAN</Name>
+            <Email>masendgj7@gmail.com</Email>
+        </Update>
+    </History>
+</PISI>
