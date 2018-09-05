@@ -2,4 +2,4 @@
 
 <b>Kullanımı:</b> <br>
 <code>sudo pisi bi https://raw.githubusercontent.com/mas963/pisisublimetext3/master/pspec.xml</code> <br>
-Derlendikten sonra oluşan pisi uzantılı çift tıklayarak kurabilirsiniz.
+Derlendikten sonra oluşan pisi uzantılı dosyaya çift tıklayarak kurabilirsiniz.
